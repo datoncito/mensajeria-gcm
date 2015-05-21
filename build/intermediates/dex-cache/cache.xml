@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/pre-dexed/debug/classes-82109653c446ed496e44249b9edcfe92fd39d4bb.jar" />
+    </item>
+    <item
+        jar="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81">
+        <dex dex="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/pre-dexed/debug/classes-13d7329dadfe0ba95306852588d06b2e128e581f.jar" />
+    </item>
+    <item
+        jar="/home/campitos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-0f06a1df1ac48be3ddcfd2f4d5a8c8023201e0ab.jar" />
+    </item>
+    <item
+        jar="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-93a80f49a868951760592fae9200f347c23fef3a.jar" />
+    </item>
+    <item
+        jar="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/media/campitos/mi_daton/AndroidStudioProjects/Putozao/app/build/intermediates/pre-dexed/debug/classes-33e3e6c6a4195f83ccebb320ce2c7224332f5f13.jar" />
+    </item>
+
+</items>
